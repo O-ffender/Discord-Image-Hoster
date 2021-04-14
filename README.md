@@ -1,8 +1,8 @@
-# Pays.Host Alternative Self-Bot
+# Discord Image Hosting Services Alternative Self-Bot
 Create an image host for Discord with custom domains, with a python self-bot!
 
 ## Help
-- If you need help with this, DM me on Discord at ! Misspoken#7357 ! My main got disabled LOL 
+- If you need help with this, DM me on Discord at ! O̵͍͌ϝϝɛռɖɛʀ#3638 !  
 
 ## Usage
 - Head over to `main.py` and put your token where it says `YOUR_TOKEN`. (Line 7)
